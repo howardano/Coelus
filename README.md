@@ -1,2 +1,2 @@
 # Coelus
-Coelus test for job applying
+Coelus test.
